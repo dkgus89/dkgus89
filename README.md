@@ -1,4 +1,4 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=120&section=header&text=&fontColor=auto&fontSize=50&animation=fadeIn&fontAlignY=40)
 
 <!--
 **dkgus89/dkgus89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
